@@ -5,4 +5,4 @@ public class Test {
         System.out.println("Init allegro project");
     }
 }
-//testowanie strony Allegro
+//testowanie strony Allegro ponowne
