@@ -6,3 +6,6 @@ public class Test {
     }
 }
 //testowanie strony Allegro ponowne
+//tes1
+
+
